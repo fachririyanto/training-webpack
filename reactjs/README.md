@@ -1,4 +1,4 @@
-# ReactJS starter with Webpack
+# Simple ReactJS setup with Webpack
 
 01. Install NPM modules.\
 ```npm install```
